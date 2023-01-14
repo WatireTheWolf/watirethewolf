@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+
+## 📫 How to reach me: 
+
+Email: watire@watirefurry.com
+
+Telegram: [WatireFur](https://t.me/watirefur)
+
+## 😄 Pronouns: 
+
+He/Him
 
 <!--
 **WatireTheWolf/watirethewolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
